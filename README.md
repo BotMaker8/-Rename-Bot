@@ -44,4 +44,4 @@ Press Below Button to Deploy!
 
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [SSABOTS](https://telegram.dog/ssabots2) |   [ɢɪᴛʜᴜʙ](GitHub.com/BOTMAKER8)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/ssabots2)</b>
+<b>ᴄʜᴀɴɴᴇʟ ›› [SSABOTS](https://t.me/ssabots2)</b>
